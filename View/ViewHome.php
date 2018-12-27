@@ -33,6 +33,9 @@ body{width:615px;font-family:arial;letter-spacing:1px;line-height:20px;}
 			<td>
 				<div style="text-align:right;margin:20px 0px;"><a href='indexpenggajian.php?' class="button_link"><img src="crud-icon/add.png" title="penggajian" style="vertical-align:bottom;" />PENGGAJIAN</a></div>
 			</td>
+			<td>
+				<div style="text-align:right;margin:20px 0px;"><a href='indexabsensi.php?' class="button_link"><img src="crud-icon/add.png" title="penggajian" style="vertical-align:bottom;" />ABSENSI</a></div>
+			</td>
 		</tr>
 
 	</table>
